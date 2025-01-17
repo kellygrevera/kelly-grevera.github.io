@@ -1,12 +1,8 @@
-div{
-    position:relative;
-    top:100px;
+body{
+  background-color:#AAA80A;
 }
 
-#doggie{
-    width:100px;
-}
-
-.scene{
-    width:300px;
+#sky{
+  position:relative;
+  left:100px;
 }
